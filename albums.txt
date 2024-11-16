@@ -1,0 +1,17 @@
+2
+Graduation
+Kanye West
+artwork1.png
+2
+Track1
+track1.mp3
+Track2
+track2.mp3
+The college drop out
+Kanye West
+artwork2.png
+2
+Track3
+track3.mp3
+Track4
+track4.mp3
